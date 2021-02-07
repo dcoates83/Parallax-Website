@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallax Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="pimg1">
+        <div class="ptext">
+            <span class="border">
+                Parallax Website
+            </span>
+        </div>
+    </div>
 
-You can use the [editor on GitHub](https://github.com/dcoates83/Parallax-Website/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+    <section class="section section-light">
+        <h2>Section One</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam nobis maxime suscipit corporis, minima commodi amet non ducimus voluptatibus. Voluptates aut tenetur reprehenderit unde delectus sit sint id, voluptate quam! Reiciendis velit earum obcaecati animi temporibus quam
+        </p>
+    </section>
+    <div class="pimg2">
+        <div class="ptext">
+            <span class="border, trans">
+                Image Two Text
+            </span>
+        </div>
+    </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <section class="section section-dark">
+        <h2>Section Two</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam nobis maxime suscipit corporis, minima commodi amet non ducimus voluptatibnt id, voluptate quam! Reiciendis velit earum obcaecati animi temporibus quam vollum enim cum nobis? Itaque, dolores. Modi provident eaque amet reiciendis itaque vitae nisi hic deleniti aperiam velit possimus, odio ab numquam molestias earum fuga, ad iure architecto soluta laboriosam excepturi. Nostrum repellat aspernatur iusto corrupti quae dolores asperiores excepturi, suscipit iste, odio, aliquam perferendis? Fugiat, aperiam!
+        </p>
+    </section>
+    <div class="pimg3">
+        <div class="ptext">
+            <span class="border, trans">
+                Image Three Text
+            </span>
+        </div>
+    </div>
 
-### Markdown
+    <section class="section section-dark">
+        <h2>Section Three</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam nobis maxime suscipit corporis, minima commodi amet non ducimus voluptatibus. Voluptates aut tenetur reprehenderit unde delectus sit sint id, voluptate quam! Reiciendis velit earum obcaecati animi temporibus quam voluptates labore iure, hic molestiae quaerat tenetur. Non, nihil tempora? Suscipit, amet necessitatibus ipsam odit ea illum enim cum nobis? Itaque, dolores. Modi provident eaque amet reiciendis itaque vitae nisi hic deleniti aperiam velit possimus, odio ab numquam molestias earum fuga, ad iure architecto soluta laboriosam excepturi. Nostrum repellat aspernatur iusto corrupti quae dolores asperiores excepturi, suscipit iste, odio, aliquam perferendis? Fugiat, aperiam!
+        </p>
+    </section>
+    <div class="pimg1">
+        <div class="ptext">
+            <span class="border">
+                CTS Media
+            </span>
+        </div>
+    </div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dcoates83/Parallax-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
